@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: BW_CameraCalibration.aux
+Case mismatch error between cite keys REF_OPENCV_CAMERA_CALIBRATION and ref_OpenCV_camera_calibration
+---line 31 of file BW_CameraCalibration.aux
+ : \citation{REF_OPENCV_CAMERA_CALIBRATION
+ :                                        }
+I'm skipping whatever remains of this command
+The style file: IEEEbib.bst
+Database file #1: bw_ref_CC.bib
+You've used 3 entries,
+            1838 wiz_defined-function locations,
+            467 strings with 3862 characters,
+and the built_in function-call counts, 398 in all, are:
+= -- 30
+> -- 12
+< -- 0
++ -- 6
+- -- 3
+* -- 11
+:= -- 63
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 15
+empty$ -- 55
+format.name$ -- 3
+if$ -- 91
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 0
+newline$ -- 15
+num.names$ -- 3
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 0
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 3
+width$ -- 4
+write$ -- 29
+(There was 1 error message)

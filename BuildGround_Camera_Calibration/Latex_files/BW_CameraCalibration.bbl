@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{ref_Four_Coordinates}
+ZealCV,
+\newblock ``The relations of four coordinates in camera calibration model,''
+  [Online; posted 06-24-2017].
+
+\bibitem{ref_OpenCV_camera_calibration}
+OpenCV,
+\newblock ``Camera calibration by opencv,'' [Online; posted 06-24-2017].
+
+\bibitem{ref_OpenCV_chessboard_sample}
+OpenCV,
+\newblock ``Chessboard sample snapshot by opencv,'' [Online; posted
+  06-24-2017].
+
+\end{thebibliography}
