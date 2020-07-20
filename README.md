@@ -6,9 +6,12 @@
 
 ## ☆ Camera Calibration using Python
 
+## ☆ Git
+
 ## ☆ TBD
 
 ---
 
 ### This repository is in progress...
 + [x] July-07-2020
++ [x] July-20-2020
