@@ -1,0 +1,10 @@
+
+1. Locally: jupyter notebook
+
+2. In notebook, download as "xxx.md file"
+
+3. Use Sublime to convert the .md file to .html file.
+
+4. Revise the image(s) path so as to show the image(s) in the .html file.
+
+5. Print -> save as pdf.
