@@ -1,10 +1,17 @@
 
-1. Locally: jupyter notebook
+1. Locally: jupyter notebook. Note that image(s) path must not contain './'.
 
 2. In notebook, download as "xxx.md file"
 
 3. Use Sublime to convert the .md file to .html file.
 
-4. Revise the image(s) path so as to show the image(s) in the .html file.
+4. Revise the image(s) path in case so as to show the image(s) in the .html file.
 
 5. Print -> save as pdf.
+
+
+
+
+
+
+jupyter nbconvert --to pdf Engineering_01_git.ipynb
