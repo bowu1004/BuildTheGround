@@ -10,6 +10,8 @@
 
 ## ☆ STFT and Wavelet
 
+## ☆ Kalman filter
+
 ## ☆ TBD-publish python packages at https://packaging.python.org/tutorials/packaging-projects/
 
 ## ☆ TBD
