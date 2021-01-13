@@ -8,12 +8,17 @@
 
 ## ☆ Git
 
+## ☆ STFT and Wavelet
+
 ## ☆ TBD-publish python packages at https://packaging.python.org/tutorials/packaging-projects/
 
 ## ☆ TBD
 
 ---
 
-### This repository is in progress...
+### This repository starts at
 + [x] July-07-2020
 + [x] July-20-2020
++ [x] Jan-12-2021
+
+and, in progress...
