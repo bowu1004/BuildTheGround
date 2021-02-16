@@ -14,6 +14,8 @@
 
 ## ☆ Relations between Trace, Gradient, Divergence, Curl, Laplacian, Jacobian and Hessian.
 
+## ☆ Loss function of CrossEntropy, KL divergence(RelativeEntropy), JS divergence, and Wasserstein distance.
+
 ## ☆ TBD-publish python packages at https://packaging.python.org/tutorials/packaging-projects/
 
 ## ☆ TBD
