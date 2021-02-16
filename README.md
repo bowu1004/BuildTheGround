@@ -12,6 +12,8 @@
 
 ## ☆ Kalman filter
 
+## ☆ Relations between Trace, Gradient, Divergence, Curl, Laplacian, Jacobian and Hessian.
+
 ## ☆ TBD-publish python packages at https://packaging.python.org/tutorials/packaging-projects/
 
 ## ☆ TBD
