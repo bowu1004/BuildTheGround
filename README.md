@@ -18,7 +18,7 @@
 
 ## ☆ TBD-publish python packages at https://packaging.python.org/tutorials/packaging-projects/
 
-## ☆ ML note: Linear Discriminant Function 
+## ☆ ML note 1: Linear Discriminant Function 
 
 ## ☆ TBD
 
