@@ -18,6 +18,8 @@
 
 ## ☆ TBD-publish python packages at https://packaging.python.org/tutorials/packaging-projects/
 
+## ☆ ML note: Linear Discriminant Function 
+
 ## ☆ TBD
 
 ---
@@ -27,5 +29,6 @@
 + [x] July-20-2020
 + [x] Jan-12-2021
 + [x] Feb-16-2021
++ [x] Feb-24-2021
 
 and, in progress...
