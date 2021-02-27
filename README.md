@@ -20,6 +20,8 @@
 
 ## ☆ ML note 1: Linear Discriminant Function 
 
+## ☆ Math: eigenvalue, eigenvector, rank/trace
+
 ## ☆ TBD
 
 ---
