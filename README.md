@@ -22,6 +22,8 @@
 
 ## ☆ Math: eigenvalue, eigenvector, rank/trace
 
+## ☆ ML note 2: Logistic Regression
+
 ## ☆ TBD
 
 ---
@@ -32,5 +34,6 @@
 + [x] Jan-12-2021
 + [x] Feb-16-2021
 + [x] Feb-24-2021
++ [x] Feb-26-2021
 
 and, in progress...
