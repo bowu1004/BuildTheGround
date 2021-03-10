@@ -24,6 +24,8 @@
 
 ## ☆ ML note 2: Logistic Regression
 
+## ☆ ML note 3: Maximum Likelihood Estimaiton, vs., Maximum A Posteriori estimation
+
 ## ☆ TBD
 
 ---
@@ -35,5 +37,6 @@
 + [x] Feb-16-2021
 + [x] Feb-24-2021
 + [x] Feb-26-2021
++ [x] March-10-2021
 
 and, in progress...
