@@ -26,6 +26,8 @@
 
 ## ☆ ML note 3: Maximum Likelihood Estimaiton, vs., Maximum A Posteriori estimation
 
+## ☆ ML note 4: Implement A Softmax Classifier and A Simple MLP NN.
+
 ## ☆ TBD
 
 ---
@@ -38,5 +40,6 @@
 + [x] Feb-24-2021
 + [x] Feb-26-2021
 + [x] March-10-2021
++ [x] March-21-2021
 
 and, in progress...
