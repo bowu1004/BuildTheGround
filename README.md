@@ -28,6 +28,8 @@
 
 ## ☆ ML note 4: Implement A Softmax Classifier and A Simple MLP NN.
 
+## ☆ MFCC, Mel/Gammatone Spectrogram
+
 ## ☆ TBD
 
 ---
@@ -41,5 +43,6 @@
 + [x] Feb-26-2021
 + [x] March-10-2021
 + [x] March-21-2021
++ [x] April-03-2021
 
 and, in progress...
