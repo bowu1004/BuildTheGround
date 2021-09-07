@@ -30,6 +30,8 @@
 
 ## ☆ MFCC, Mel/Gammatone Spectrogram
 
+## ☆ Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization
+
 ## ☆ TBD
 
 ---
@@ -44,5 +46,6 @@
 + [x] March-10-2021
 + [x] March-21-2021
 + [x] April-03-2021
++ [x] Sept-07-2021
 
 and, in progress...
