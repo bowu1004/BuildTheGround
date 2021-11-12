@@ -32,6 +32,11 @@
 
 ## ☆ Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization
 
+## ☆ L1 vs L2 regularization
+The main intuitive difference between the L1 and L2 regularization is that L1 regularization tries to estimate the median of the data while the L2 regularization tries to estimate the mean of the data to avoid overfitting.
+
+The key difference between these techniques is that Lasso shrinks the less important feature’s coefficient to zero thus, removing some features altogether. So, this works well for feature selection in case we have a huge number of features.
+
 ## ☆ TBD
 
 ---
