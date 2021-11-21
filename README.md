@@ -37,6 +37,9 @@ The main intuitive difference between the L1 and L2 regularization is that L1 re
 
 The key difference between these techniques is that Lasso shrinks the less important feature’s coefficient to zero thus, removing some features altogether. So, this works well for feature selection in case we have a huge number of features.
 
+## ☆ Why normal distribution is common?
+See Central Limit Theorem
+
 ## ☆ TBD
 
 ---
