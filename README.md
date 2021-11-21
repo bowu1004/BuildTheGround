@@ -40,8 +40,7 @@ The key difference between these techniques is that Lasso shrinks the less impor
 ## ☆ Why normal distribution is common?
 See Central Limit Theorem
 
-## ☆ Understand boxplot
-See https://zhuanlan.zhihu.com/p/347067055
+## ☆ 
 
 ## ☆ TBD
 
