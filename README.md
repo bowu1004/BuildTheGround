@@ -4,7 +4,10 @@
 ###### Wu, B.
 ---
 
-## ☆ Camera Calibration using Python
+## ☆ Like: _The true logic of this world is in the calculus of probabilities._ 
+E.g. Bayesian method, information/entropy
+
+## ☆ Camera calibration
 
 ## ☆ Git
 
