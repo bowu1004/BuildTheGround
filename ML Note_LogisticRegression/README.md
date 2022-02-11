@@ -22,5 +22,5 @@ E.g.
 ---
 
 ## Notation list
-1. x: predictor variable 自变量; y: response variable 因变量.
+1. x: predictor/explanatory variable 自变量; y: response variable 因变量.
 2. natural sigmoid function: (normal) sigmoid function
