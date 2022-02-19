@@ -8,8 +8,11 @@
 
 5. **Bagging** is **variance** reduction scheme while **boosting** reduces **bias**.
 
-6. **variance-bias trade off**[TBD]
+6. **variance-bias trade off**:
+
 ![variance bias overfitting underfitting](ref-variance_bias_overfit_underfit_snapshot.png "variance bias overfitting underfitting")
+
+
 
 ---
 
