@@ -6,6 +6,8 @@
 
 4. **关于bagging,boost选样本放回(replacement)与不放回(non replacement)的问题:** 假设单次训练都需要**随机**选取n个样本，不同的地方在于如何得到这n个随机样本即如何随机，(1)bootstrap aggregation (or bagging)是每次有放回的随机选1个样本，然后选n次; (2)boosting是一次性随机选取n个样本，也即无放回的一次一次随机取。
 
+5. **Bagging** is **variance** reduction scheme while **boosting** reduces **bias**.
+
 ---
 
 ### ref 1: https://easyai.tech/ai-definition/random-forest/
