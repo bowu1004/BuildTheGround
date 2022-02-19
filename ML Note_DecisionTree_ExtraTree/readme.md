@@ -8,6 +8,9 @@
 
 5. **Bagging** is **variance** reduction scheme while **boosting** reduces **bias**.
 
+6. **variance-bias trade off**[TBD]
+
+
 ---
 
 ### ref 1: https://easyai.tech/ai-definition/random-forest/
