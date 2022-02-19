@@ -9,10 +9,13 @@
 5. **Bagging** is **variance** reduction scheme while **boosting** reduces **bias**.
 
 6. **variance-bias trade off**[TBD]
-
+![variance bias overfitting underfitting](ref-variance_bias_overfit_underfit_snapshot.png "variance bias overfitting underfitting")
 
 ---
 
 ### ref 1: https://easyai.tech/ai-definition/random-forest/
 ### ref 2: https://easyai.tech/ai-definition/decision-tree/
 ### ref 3: https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+
+
+---
