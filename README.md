@@ -46,7 +46,8 @@ See Central Limit Theorem
 ## ☆ NN weight initialization approaches
 1. **Xavier initialization** sets a layer’s weights to values chosen from **a random uniform(mostly)/normal distribution** that’s bounded between |sqrt(6)/sqrt(N1+N2)|.
 2. **Kaiming He initialization** sets a layer’s weights to values chosen from **a normal distribution** that’s bounded between |sqrt(2)/sqrt(N1)|.
-[ref](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)
+
+See [ref1-En](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79), [ref2-CH](https://zhuanlan.zhihu.com/p/86602524)
 
 ## ☆ 
 
