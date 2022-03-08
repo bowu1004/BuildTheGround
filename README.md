@@ -43,6 +43,10 @@ The key difference between these techniques is that Lasso shrinks the less impor
 ## ☆ Why normal distribution is common?
 See Central Limit Theorem
 
+## ☆ NN weight initialization approaches
+1. **Xavier initialization** sets a layer’s weights to values chosen from **a random uniform(mostly)/normal distribution** that’s bounded between |sqrt(6)/sqrt(N1+N2)|.
+2. **Kaiming He initialization** sets a layer’s weights to values chosen from **a normal distribution** that’s bounded between |sqrt(2)/sqrt(N1)|.
+
 ## ☆ 
 
 ## ☆ TBD
