@@ -15,6 +15,9 @@
 7. **ID3, C4.5 and CART comparison**
 ![tree-based alg comp](ref_imgs/ID3_C4-5_CART_comp.jpeg)
 
+**Note:** Sklearn.predict() is the argmax(sklearn.predict_proba()), where sklearn.predict_proba() or the predicted class probability is the fraction of samples of the same class in a leaf.
+
+
 ---
 
 ### ref 1: https://easyai.tech/ai-definition/random-forest/
