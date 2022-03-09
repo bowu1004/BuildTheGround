@@ -12,7 +12,8 @@
 
 ![variance bias overfitting underfitting](ref-variance_bias_overfit_underfit_snapshot.png "variance bias overfitting underfitting")
 
-
+7. **ID3, C4.5 and CART comparison**
+![tree-based alg comp](ref_imgs/ID3_C4-5_CART_comp.jpeg)
 
 ---
 
